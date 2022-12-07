@@ -1,2 +1,2 @@
 # Bitscribe 
-The annual magazine of Computer Science Soceity, NIT Silchar
+The annual magazine of Computer Science Society, NIT Silchar
